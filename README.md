@@ -22,4 +22,4 @@ Bu proje, Fırat Üniversitesi Bilgisayar Mühendisliği Nesne Tabanlı Programl
 * **Geciken Kitaplar:** Geciken kitapların listelenmesi ve raporlanması
 
 
-## 👩‍💻 **Nurgül Bedir** – Fırat Üniversitesi Bilgisayar Mühendisliği 
+👩‍💻 **Nurgül Bedir** – Fırat Üniversitesi Bilgisayar Mühendisliği 
